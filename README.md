@@ -1,1 +1,1 @@
-A portfolio website is a digital platform where professionals, creatives, and students showcase their skills, qualifications, and the best examples of their previous work to potential clients or employers.
+Creating a portfolio website using HTML and CSS involves structuring your content with HTML and then styling it with CSS to create a visually appealing and organized presentation of your work and skills.
